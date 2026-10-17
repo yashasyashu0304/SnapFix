@@ -1,0 +1,10 @@
+tf_clean_env/
+__pycache__/
+*.pyc
+*.log
+.env
+model_output/
+*.keras
+*.h5
+data/images/
+data/raw/
